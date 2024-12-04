@@ -349,8 +349,8 @@ span{
     width: 50px;
 }
 
-/*The different services i got, are styled like this used some grid to achieve that*/
-.services{
+/*The different skills i got, are styled like this used some grid to achieve that*/
+.skills{
     background: var(--bg-color);
     color: white;
 }
